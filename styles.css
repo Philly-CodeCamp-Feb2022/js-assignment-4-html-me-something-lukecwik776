@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+body {
+    padding: 60px;
+    max-width: 1024px;
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+}
